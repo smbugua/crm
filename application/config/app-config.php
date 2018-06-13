@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 
-define('APP_BASE_URL','');
+define('APP_BASE_URL','http://localhost/perfex/');
 
 /*
 |--------------------------------------------------------------------------
@@ -33,18 +33,18 @@ define('APP_BASE_URL','');
 | Auto updated added on install
 */
 
-define('APP_ENC_KEY','');
+define('APP_ENC_KEY','fbcee3787742488392a80314256aeb1b');
 
 /* Database credentials - Auto added on install */
 
 /* The hostname of your database server. */
 define('APP_DB_HOSTNAME','localhost');
 /* The username used to connect to the database */
-define('APP_DB_USERNAME','');
+define('APP_DB_USERNAME','root');
 /* The password used to connect to the database */
 define('APP_DB_PASSWORD','');
 /* The name of the database you want to connect to */
-define('APP_DB_NAME','');
+define('APP_DB_NAME','barlettahcrm');
 
 
 /**
